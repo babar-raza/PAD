@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>No</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-45000650389B</Company_UIN>
+    <Product_UIN>APP-85003110BB9B</Product_UIN>
+    <Publish_on_CD>N</Publish_on_CD>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_String>Aspose.Cells for .NET</Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <Backlink></Backlink>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Search_String_Unique>Aspose.Cells for .NET</Search_String_Unique>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Company_Description></Company_Description>
+  </RoboSoft>
+  <Company_Info>
+    <PublisherID>pid-2500d986189b</PublisherID>
+    <BrandID>bid-45000650389b</BrandID>
+    <Company_Name>Aspose</Company_Name>
+    <Country>Australia</Country>
+    <State_Province>NSW</State_Province>
+    <City_Town>Lane Cove</City_Town>
+    <Zip_Postal_Code>2066</Zip_Postal_Code>
+    <Address_1>Suite 163</Address_1>
+    <Address_2>79 Longueville Road</Address_2>
+    <Company_WebSite_URL>https://www.aspose.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Aspose Pty Ltd</Contact_First_Name>
+      <Contact_Last_Name>Aspose</Contact_Last_Name>
+      <Contact_Email>support@aspose.com</Contact_Email>
+      <Author_First_Name>Aspose Pty Ltd</Author_First_Name>
+      <Author_Last_Name>Aspose</Author_Last_Name>
+      <Author_Email>support@aspose.com</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>support@aspose.com</Sales_Email>
+      <Support_Email>support@aspose.com</Support_Email>
+      <General_Email>support@aspose.com</General_Email>
+      <Sales_Phone>+61 2 8006 6987</Sales_Phone>
+      <Support_Phone>+61 2 8006 6987</Support_Phone>
+      <General_Phone>+61 2 8006 6987</General_Phone>
+      <Fax_Phone>+61 2 8006 6987</Fax_Phone>
+    </Support_Info>
+    <LinkedinPage>https://www.linkedin.com/company/aspose</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/aspose</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/aspose/</FacebookCompanyPage>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-85003110bb9b</AppID>
+    <Program_Name>Aspose.Cells for .NET</Program_Name>
+    <Program_Version>20.10.0</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Cost_Dollars>999</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Category_Class>Development::Components &amp; Libraries</Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories>Programming :: C &amp; C++ &amp; C#</Program_Categories>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Supported Get/Set for the slicer shape properties.
+
+Client API to add/remove comments at GridWeb.
+
+Supported Kaiti font.</Program_Change_Info>
+    <Program_System_Requirements>https://docs.aspose.com/cells/net/system-requirements/</Program_System_Requirements>
+    <Limitations></Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>73728000</File_Size_Bytes>
+      <File_Size_K>72000</File_Size_K>
+      <File_Size_MB>70.31</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://products.aspose.com/cells/net</Application_Info_URL>
+      <Application_Order_URL>https://purchase.aspose.com/pricing/cells/net</Application_Order_URL>
+      <Application_Screenshot_URL>https://i.imgur.com/4CkyR29.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png</Application_Icon_URL>
+      <Application_XML_File_URL>http://repository.appvisor.com/app-85003110bb9b/site-01/AsposeCells_for_NET_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://www.nuget.org/packages/Aspose.Cells/</Primary_Download_URL>
+      <Secondary_Download_URL>https://downloads.aspose.com/cells/net</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Excel Library, .NET Excel API</Keywords>
+      <Char_Desc_45>.NET APIs to Process Excel Spreadsheets</Char_Desc_45>
+      <Char_Desc_80>Create, Manipulate, Render or Convert Microsoft Excel Files via .NET</Char_Desc_80>
+      <Char_Desc_250>An advanced spreadsheet processing API to perform a wide range of management and manipulation tasks. API supports to generate, modify, convert, render and print spreadsheet without utilizing Microsoft Exceldirectly within cross-platform applications.</Char_Desc_250>
+      <Char_Desc_450>Comprehensive import and export with 30+ supported file formats. High fidelity rendering of Excel files - exactly like Microsoft Excel would have rendered. Rich object model that allows to generate, combine, modify, parse or otherwise examine loaded spreadsheets. .NET printing infrastructure to print spreadsheets on physical or virtual printers. Import data from various sources &amp; generate reports via templates. Formula Calculation Engine.</Char_Desc_450>
+      <Char_Desc_2000>Convert Spreadsheets to PDF, XPS &amp; HTML Formats
+
+Aspose.Cells for .NET is capable of converting spreadsheets to PDF, XPS &amp; HTML formats while maintaining the highest visual fidelity. The conversion process is simple yet reliable, thus making API a perfect choice for the organizations which require to exchange documents in any of the industry-standard formats.
+
+Visualize Data with Formatting, Charts &amp; Graphics
+
+Aspose.Cells for .NET gives you complete freedom and flexibility to furnish your spreadsheets with all kinds of visual effects. The API allows you to apply different fonts with attributes, cell styles (alignment, indentation, rotation, borders, shading and coloring, protection, text wrapping and shrinking) and all types of number formats.
+Similarly, charts and graphics are visually appealing and can give your spreadsheet a professional look. Aspose.Cells for .NET provides a comprehensive set of APIs for creating and manipulating all of the standard and custom chart types. Moreover, you may add different types of drawing objects, such as comments, pictures, OLE objects, shapes and controls to the cells
+
+Efficient, Robust &amp; Reliable Formula Calculation Engine
+
+Aspose.Cells for .NET has a powerful Formula Calculation Engine that supports almost all of the standard and advanced Microsoft Excel formulas and functions. You can read, set and calculate the results of the built-in, add-in, array &amp; R1C1 reference style formulas.
+
+Summarize Data with Pivot Tables, Charts &amp; Smart Markers
+
+A Pivot Table can help you quickly summarize the flat data and to get the desired information according to your needs. .NET Excel library can create as well as manipulate PivotTables.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions></Distribution_Permissions>
+    <EULA>https://company.aspose.com/legal/eula</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BlueSnap_Order_Page></Affiliates_BlueSnap_Order_Page>
+    <Affiliates_BlueSnap_Vendor_ID></Affiliates_BlueSnap_Vendor_ID>
+    <Affiliates_BlueSnap_Product_ID></Affiliates_BlueSnap_Product_ID>
+    <Affiliates_BlueSnap_Maximum_Commission_Rate></Affiliates_BlueSnap_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>Aspose Pty Ltd</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Aspose</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>support@aspose.com</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release></Press_Release>
+    <Headline></Headline>
+    <Summary></Summary>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title></Site_Site_Title>
+    <Site_Site_URL></Site_Site_URL>
+    <Site_Keywords></Site_Keywords>
+    <Site_Description_100></Site_Description_100>
+    <Site_Description_250></Site_Description_250>
+    <Site_Description_450></Site_Description_450>
+    <Site_Contact_First_Name>Aspose Pty Ltd</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Aspose</Site_Contact_Last_Name>
+    <Site_Contact_Email>support@aspose.com</Site_Contact_Email>
+  </Site>
+  <Temp_Icon>https://cdnjs.cloudflare.com/ajax/libs/fatcow-icons/20130425/FatCow_Icons32x32/world.png</Temp_Icon>
+  <Download_Link_Points_To_Non_Binary_File>TRUE</Download_Link_Points_To_Non_Binary_File>
+  <Dynamic_PAD>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>AsposeCells_for_NET_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>https://www.nuget.org/packages/Aspose.Cells/</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>AsposeCells_for_NET_pad.exe</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
+</XML_DIZ_INFO>
